@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown,header</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="
+        sha384-1q8mTJOASx8jAu+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    
+
+</head>
+<body>
+
+    <div class="container">
+            <p>Please tell me whats wrong here.</p>
+
+        
+            <button type="button" class="btn btn-primary dropdown-toggle"
+            data-toggle="dropdown">
+            Devices
+            </button>
+            <div class="dropdown-menu">
+            
+                <div class="dropdown-header">Mobile Phones</div> 
+
+            <div class="btn-group"></div>
+
+                <a class="dropdown-item" href="#">Iphone</a>
+                <a class="dropdown-item" href="#">Android</a>
+                <a class="dropdown-item" href="#">Blackberry</a>
+            
+                <div class="dropdown-header">Laptops</div>
+                 
+            <div class="btn-group"></div>
+                
+                <a class="dropdown-item" href="#">Dell</a>
+                <a class="dropdown-item" href="#">Lenovo</a>
+                <a class="dropdown-item" href="#">HP</a>    
+            </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="
+    sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtnI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="
+    sha384-wfSDF2E50Y2D1uUdj003uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl30g8ifwB6" crossorigin="anonymous"></script>
+
+</body>
+</html>
