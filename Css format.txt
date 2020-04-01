@@ -1,0 +1,66 @@
+table 
+    {
+        font-weight: bold;
+        font-size: medium;
+        font-style: oblique;
+        font-variant: normal;
+        font-stretch: normal;
+        line-height: normal;
+        font-family: arial,sans-serif;
+        border-collapse: collapse;
+        margin: 2000px
+        padding: 2000x;
+        box-sizing: border-box;
+    }
+    
+table
+    { 
+         border: 1px solid black;
+    }    
+tr 
+    { 
+        background-color:rgb(211, 198, 198) ;
+        height: 32px;
+        width: 47%;
+      <a>  hover
+       #cccccc
+    }
+tr 
+    {
+        margin: 50px;
+        padding: 50px;
+        background-color: rgb(71, 70, 70);
+        height: 32px;
+        width: 47%;
+      <a>  hover
+         #b3b3b3
+    }
+tr 
+    {
+        margin: 50px;
+        padding: 50px;
+        background-color: rgb(211, 198, 198);            
+        height: 32px;
+        width: 47%;
+      <a>  hover
+       #cccccc
+    }
+
+th 
+    { 
+        border: 1px solid black;
+        margin: 3px;
+        padding: 3px;
+        background-color: #dc143c;
+        width: 47%;
+      <a>  hover
+       #bb1133
+    }
+td 
+    { 
+        color: black;
+        text-align: left;
+        text-decoration: black;
+        text-shadow: none;
+        border: 1px solid black;
+    }

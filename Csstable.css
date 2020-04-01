@@ -1,0 +1,40 @@
+<style>
+    table
+    	 {
+        font-weight: bold;
+        font-size: medium;
+        font-style: oblique;
+        font-variant: normal;
+        font-stretch: normal;
+        line-height: normal;
+        font-family: arial,sans-serif;
+        border-collapse: collapse;
+        margin: 2px;
+        width: 1px;
+        padding: 5px;
+        box-sizing: border-box;
+    	}
+    
+    table
+    	{ 
+         border: initial;
+         border-color: black;
+        }
+
+        tr
+         { /* Sets border around every row*/
+            border: '1px solid black';
+            color:black;
+        }
+        th 
+        { /* Sets border around every <th> element */
+            color:#;
+        }
+        td 
+        { /* Sets border around every <td> element */
+            color: black;
+            text-align: left;
+            text-decoration: blue;
+            text-shadow: none;
+        }
+

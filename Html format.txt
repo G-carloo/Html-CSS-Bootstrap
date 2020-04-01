@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tables, Lists and Typography</title>
+<link href="Csstable.css" rel="stylesheet" type="text/css"/>
+<ul>
+  <!-- Tab links -->
+<button onclick: hover ="window.location.href = 'Home.html';">Home</button>
+<button onclick: hover ="window.location.href = 'Products.html';">Products</button>
+<button onclick: hover ="window.location.href = 'About us.html';">About us</button>
+    </ul>
+
+</head>
+<body>
+
+    <table>
+        <tr>
+        <th>        First Name      </th>  
+        <th>        Last Name       </th>
+        <th>           Age          </th>
+        </tr>
+        <tr> 
+            <td>John</td>
+            <td>Doe</td>
+            <td>25</td>
+        </tr>
+            <td>Sally</td>
+            <td>Cucumber</td>
+            <td>19</td>
+        </tr>
+        <tr>
+            <td>Grant</td>
+            <td>Goose</td>
+            <td>18</td>
+        </tr>
+        
+
+    </table>
+
+</body>
+</html>
